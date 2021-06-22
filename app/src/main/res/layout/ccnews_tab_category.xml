@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvTabTitle"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="start"
+    android:background="@drawable/ccnews_category_tab_background"
+    android:gravity="center"
+    android:minWidth="60dp"
+    android:paddingBottom="7dp"
+    android:paddingEnd="12dp"
+    android:paddingStart="12dp"
+    android:paddingTop="7dp"
+    android:textColor="@color/ccnews_textcolor_category_tab"
+    android:textAppearance="?textAppearanceCaption"
+    android:textSize="14sp" />

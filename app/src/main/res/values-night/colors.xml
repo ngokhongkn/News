@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDivider">#444545</color>
+    <color name="colorStyleBG">#1D3F2B</color>
+    <color name="colorStyleScreenBG">#2A2B2B</color>
+    <color name="colorStyleSettingBarBG">#005824</color>
+    <color name="colorCardviewOutline">#444545</color>
+    <color name="colorAppBackground">#2A2B2B</color>
+    <color name="colorTextOpacity100">#FFFFFF</color>
+    <color name="colorTextOpacity60">#99FFFFFF</color>
+    <color name="colorCategorySettingBg">#444545</color>
+    <color name="colorCategorySettingIcon">#DADADA</color>
+    <color name="colorCategoryChipSelectedBg">#005824</color>
+    <color name="colorCategoryChipUnSelectedBg">#444545</color>
+    <color name="colorCategoryChipSelectedText">#FFFFFF</color>
+    <color name="colorCategoryChipUnSelectedText">#A2A3A3</color>
+</resources>

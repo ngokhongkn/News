@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorCoccoc">#4FBA69</color>
+    <color name="colorDivider">#E3E3E3</color>
+    <color name="colorStyleBG">#E1F2E5</color>
+    <color name="colorStyleScreenBG">#FFFFFF</color>
+    <color name="colorStyleSettingBarBG">#C4E3CB</color>
+    <color name="colorCardviewOutline">#E3E3E3</color>
+    <color name="colorAppBackground">#FFFFFF</color>
+    <color name="colorTextOpacity100">#141515</color>
+    <color name="colorTextOpacity60">#99141515</color>
+
+    <color name="news_tab_selected_textcolor">#4FBA69</color>
+    <color name="news_tab_textcolor">#848687</color>
+    <color name="colorCategorySettingBg">#F5F5F5</color>
+    <color name="colorCategorySettingIcon">#444545</color>
+    <color name="colorCategoryChipSelectedBg">#E1F2E5</color>
+    <color name="colorCategoryChipUnSelectedBg">#E3E3E3</color>
+    <color name="colorCategoryChipSelectedText">#14842F</color>
+    <color name="colorCategoryChipUnSelectedText">#6E7171</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:allowDividerAbove="false"
+        app:allowDividerBelow="true"
+        app:iconSpaceReserved="false"
+        app:title="Cài đặt hiển thị">
+        <com.coccoc.news.ui.pref.StylePreference android:key="stylePref" />
+    </PreferenceCategory>
+
+    <SwitchPreferenceCompat
+        android:key="barPref"
+        android:title="Hiện thanh chủ đề tin"
+        app:allowDividerAbove="true"
+        app:allowDividerBelow="false"
+        app:iconSpaceReserved="false" />
+
+    <PreferenceCategory
+        android:key="groupCategory"
+        app:iconSpaceReserved="false"
+        app:title="Chủ đề tin yêu thích">
+        <com.coccoc.news.ui.pref.SubscribeCategoryPreference android:key="prefCategory" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="Tùy chọn khác">
+        <Preference
+            android:summary="Đang ẩn 2 nguồn tin"
+            app:iconSpaceReserved="false"
+            app:title="Nguồn tin đã ẩn" />
+    </PreferenceCategory>
+</PreferenceScreen>
